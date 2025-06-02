@@ -1,0 +1,1 @@
+The dataset is too large with each more than 100MW. So I cannot upload them to Github. Please contact Bill.Marion@nrel.gov from NREL to download the public dataset in the report W. Marion et al. , “User’s Manual for Data for Validating Models for PV Module Performance,” 2014, Accessed: Jul. 31, 2022. [Online]. Available: https://www.nrel.gov/docs/fy14osti/61610.pdf.
